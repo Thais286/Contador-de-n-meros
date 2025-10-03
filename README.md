@@ -1,0 +1,1 @@
+Site de um contador de números feito através dos ensinamentos do professor Gustavo Guanabara no Curso em Vídeo JS . O projeto é de um contador de números usando HTML,CSS e JS no contador é exibido a contagem inicial dos números , fim da contagem e o passo que é de quantos em quanto números o contador pula na contagem dos números.  
